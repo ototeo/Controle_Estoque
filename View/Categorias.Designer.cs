@@ -1,6 +1,6 @@
 ﻿namespace View
 {
-    partial class Form1
+    partial class Categorias
     {
         /// <summary>
         /// Variável de designer necessária.
